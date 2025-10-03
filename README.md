@@ -1,6 +1,6 @@
 # Hi there, I'm Shreya 👋
 
-💻 **Computer Science & Engineering Student | Full-Stack Developer | AI/ML Enthusiast**
+💻 **Computer Science & Engineering Student | Full-Stack Developer**
 
 ---
 
