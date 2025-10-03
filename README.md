@@ -6,9 +6,8 @@
 
 ### 🚀 About Me
 - 🎓 Currently pursuing Computer Science & Engineering  
-- 💡 Skilled in Java, Spring Boot, React, Angular, and AI/ML  
+- 💡 Skilled in Java, Spring Boot, React.
 - 🔭 Building projects like **CineVision (Movie Ticket Booking App)** & **My Mom’s Pantry (Homemade Food Website)**  
-- 🌱 Exploring MEAN stack & advanced AI techniques  
 - 🤝 Open to internships, full-time opportunities, and collaborations  
 
 ---
@@ -52,6 +51,7 @@
 ### 🤝 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)  
 📧 Email: shreyabarge1707@gmail.com
+
 
 ---
 ✨ *“Code. Create. Innovate.”*
