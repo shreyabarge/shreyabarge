@@ -7,7 +7,7 @@
 ### 🚀 About Me
 - 🎓 Currently pursuing Computer Science & Engineering  
 - 💡 Skilled in Java, Spring Boot, React.
-- 🔭 Building projects like **CineVision (Movie Ticket Booking App)** & **My Mom’s Pantry (Homemade Food Website)**  
+- 🔭 Building project **My Mom’s Pantry (Homemade Food Website)**  
 - 🤝 Open to internships, full-time opportunities, and collaborations  
 
 ---
