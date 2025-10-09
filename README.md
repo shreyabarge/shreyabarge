@@ -24,19 +24,11 @@
 
 **Backend & Databases:**  
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) 
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 
 
 
 **Tools & Cloud:**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
-
----
-
-### 📌 Featured Projects
-- 🎬 [CineVision](#) – Movie Ticket Booking App (React + Spring Boot + Microservices)  
-- 🥒 [My Mom’s Pantry](#) – Homemade Food E-Commerce Website  
-- 📊 [Job Portal AI](#) – Placement Prediction using ML & Spring Boot  
 
 ---
 
