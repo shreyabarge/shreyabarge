@@ -5,7 +5,7 @@
 ---
 
 ### 🚀 About Me
--I have hands-on experience with Java, Spring Boot, React, HTML, CSS, JavaScript, and SQL. I am passionate about building efficient and user-friendly web applications and applying my knowledge to real-world projects.
+- I have hands-on experience with Java, Spring Boot, React, HTML, CSS, JavaScript, and SQL. I am passionate about building efficient and user-friendly web applications and applying my knowledge to real-world projects.
 - 🤝 Open to internships, full-time opportunities, and collaborations  
 
 ---
