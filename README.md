@@ -5,7 +5,7 @@
 ---
 
 ### 🚀 About Me
-- 🎓 Currently pursuing Computer Science & Engineering  
+- 🎓 Computer Science Graduate
 - 💡 Skilled in Java, Spring Boot, React.
 - 🔭 Building project **My Mom’s Pantry (Homemade Food Website)**  
 - 🤝 Open to internships, full-time opportunities, and collaborations  
